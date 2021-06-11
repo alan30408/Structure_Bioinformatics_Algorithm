@@ -1,0 +1,11 @@
+The result of de novo peptide for b_y_spectrum.txt
+
+seq of b_ion : TIVIIISGAIAITQTWAGSHSMR
+seq of y_ion : RMSHSGAWTQTIAIAGSIIIVIT
+
+de novo peptide : TIVIIISGAIAITQTWAGSHSMR
+
+According to the calculation result, here exist more than one peptide:
+	Amino acid I can change to L
+	Amino acid Q can change to K
+Thus, we get 128 different peptides
